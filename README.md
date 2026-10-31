@@ -1,4 +1,3 @@
-#A few things about Eric and my CV 
 Normative and AI Ethics | Human–AI Interaction | AI Evaluation Research
 
 I'm a graduate researcher in Philosophy at San Francisco State University, investigating human agency, ethics and power, and the evaluation of AI-mediated discourse.
